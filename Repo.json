@@ -2,7 +2,7 @@
   "Installer": [
     {
       "repo_name": "Test Repo",
-      "packages_file": "https://github.com/ethereus/InstallerRepo/Packages.json",
+      "packages_file": "https://raw.githubusercontent.com/ethereus/InstallerRepo/main/Packages.json",
       "author_name": "Wz"
     }
   ]
