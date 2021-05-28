@@ -15,6 +15,13 @@
         "type": "App",
         "version": "0.2"
       }
+      {
+        "identifier": "com.ethereus.InstallerRed",
+        "name": "InstallerRed",
+        "url": "https://raw.githubusercontent.com/ethereus/InstallerRepo/main/InstallerRed",
+        "type": "Theme",
+        "version": "1.0"
+      },
     ]
   }
 }
