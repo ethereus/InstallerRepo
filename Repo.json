@@ -2,7 +2,7 @@
   "Installer": [
     {
       "repo_name": "Test Repo",
-      "packages_file": "http://f4d3z.space/Installer/Packages.json",
+      "packages_file": "https://github.com/ethereus/InstallerRepo/Packages.json",
       "author_name": "Wz"
     }
   ]
