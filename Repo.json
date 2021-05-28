@@ -1,0 +1,9 @@
+{
+  "Installer": [
+    {
+      "repo_name": "Test Repo",
+      "packages_file": "http://f4d3z.space/Installer/Packages.json",
+      "author_name": "Wz"
+    }
+  ]
+}
